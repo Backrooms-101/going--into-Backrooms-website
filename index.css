@@ -59,7 +59,7 @@ details{background-color:lightgreen;color:black}
 
 .howdidthishappen{background-color:red}
 
-.gaming{background-image: url(Bro,its happening.Its done.png);}
+.gaming{background-image: url("Bro,its happening.Its done.png");}
 
 .science{font-size:32px;text-align: center;}
 
